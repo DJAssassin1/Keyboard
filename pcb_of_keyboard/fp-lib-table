@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/library/promicro_library/promicro.pretty")(options "")(descr ""))
+  (lib (name "pot")(type "KiCad")(uri "/home/djassassin/Downloads/LIB_PRS11S-N20K-503B1/PRS11S-N20K-503B1/KiCad")(options "")(descr ""))
+)
